@@ -1,5 +1,5 @@
 /**
- * TODOList.jsx — didactic-waffle
+ * TODOList.jsx — todo-tornado
  * @author bugship
  */
 

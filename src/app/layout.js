@@ -1,5 +1,5 @@
 /**
- * layout.js — didactic-waffle
+ * layout.js — todo-tornado
  * @author bugship
  */
 

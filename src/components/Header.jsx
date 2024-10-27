@@ -1,5 +1,5 @@
 /**
- * Header.jsx — didactic-waffle
+ * Header.jsx — todo-tornado
  * @author bugship
  */
 
